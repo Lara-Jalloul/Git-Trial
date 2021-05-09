@@ -19,3 +19,10 @@ Relevant Courseware: Accounting and Financial Analysis, Programming Java, Data S
 
 **HCIA-5G:**  
 * Certification HCIA-5G.  
+
+## SKILS:  
+**Languages**: English, French, Italian, and Arabic.  
+**Computer skills:** PowerPoint, word, Excel, Java, Python, Basic knowledge in SQL.
+**Soft skills:** Leadership, Communication, Team-Building, Organizational, Management.  
+
+
