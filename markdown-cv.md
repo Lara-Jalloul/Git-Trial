@@ -22,7 +22,13 @@ Relevant Courseware: Accounting and Financial Analysis, Programming Java, Data S
 
 ## SKILS:  
 **Languages**: English, French, Italian, and Arabic.  
-**Computer skills:** PowerPoint, word, Excel, Java, Python, Basic knowledge in SQL.
+**Computer skills:** PowerPoint, word, Excel, Java, Python, Basic knowledge in SQL.  
 **Soft skills:** Leadership, Communication, Team-Building, Organizational, Management.  
+
+![myimage](https://raw.githubusercontent.com/Lara-Jalloul/Git-Trial/Lara-Jalloul/picture.jpeg)
+
+
+
+
 
 
